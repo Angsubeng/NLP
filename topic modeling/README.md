@@ -9,15 +9,11 @@ In this project, we employed Latent Dirichlet Allocation (LDA), a popular topic 
 
 We utilized the 20 Newsgroups dataset from the sklearn library. This dataset consists of approximately 20,000 newsgroup documents, spanning 20 different topics.
 
-## 
+- `topic_modeling_lda.ipynb`: Jupyter Notebook implementing topic modeling using the LDA algorithm.
+
+## Technlogy Stack
 
 - Programming Language: Python
 - Libraries:
-  - sklearn: for dataset loading and preprocessing
-  - gensim: for implementing the LDA algorithm
-  - matplotlib, seaborn: for data visualization
-  - pandas: for data manipulation and analysis
+  sklearn, gensim(LDA algorithm, matplotlib, seaborn(data visualization),pandas
 
-## Files
-
-- `topic_modeling_lda.ipynb`: Jupyter Notebook implementing topic modeling using the LDA algorithm.
