@@ -10,5 +10,5 @@ This repository contains Jupyter Notebooks for text summarization using two diff
 
 
 
-** 1. `attention_sum.ipynb`: Jupyter Notebook implementing text summarization using the attention mechanism.
-** 2. `textrank_sum.ipynb`: Jupyter Notebook implementing text summarization using the TextRank algorithm.
+### 1. `attention_sum.ipynb`: Jupyter Notebook implementing text summarization using the attention mechanism.
+### 2. `textrank_sum.ipynb`: Jupyter Notebook implementing text summarization using the TextRank algorithm.
