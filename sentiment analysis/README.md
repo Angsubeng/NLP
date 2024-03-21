@@ -7,9 +7,9 @@ This project explores sentiment analysis, a natural language processing (NLP) ta
 
 **2. NSMC Sentiment Analysis and Prediction.ipynb**: Jupyter Notebook that uses the NSMC dataset and employs an LSTM (Long Short-Term Memory) model for sentiment analysis and prediction.
 
-## Technologies Used
+## Technology Stack
 
-- Python
+- Programming Language: Python
 - TensorFlow/Keras
 - Natural Language Processing (NLP)
 - Recurrent Neural Networks (RNN)
